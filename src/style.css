@@ -89,3 +89,11 @@ p{
       text-align: center;
     }
   }
+.secondary-link{
+    border-radius: 4px;
+      color: var(--branding-color);
+      font-size: 18px;
+      line-height: 27px;
+      padding: 15px 30px;
+      border: 1px solid var(--branding-color);
+}
