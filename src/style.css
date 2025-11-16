@@ -7,7 +7,6 @@
 
   body{
     font-family: var(--default-font-family);
-    padding top: 0;
   }
 
  h1,h2,h3,h4,h5,h6{
@@ -17,7 +16,7 @@ font-weight: bold;
 }
 
   h1{
-    font-size: 98px;
+    font-size: 96px;
     line-height: 1.5;
   }
 
@@ -28,7 +27,7 @@ font-weight: bold;
 p{
   font-weight: normal;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 30px;
 }
 
   .hero{
@@ -48,12 +47,12 @@ p{
     font-family: var(--heading-font-family);
     font-weight: normal;
     font-size: 24px;
-    line-height: 2;
+    line-height: 1.5;
     color: #272142;
   }
 
   .content-container{
-padding: 100px 20px;
+padding: 160px 20px;
   }
 
   .content h1{
@@ -66,7 +65,6 @@ padding: 100px 20px;
   font-family: var(--default-font-family);
 }
 .content h3 {
-  margin: 20px 0 0;
   font-size: 24px;
   font-family: var(--default-font-family);
   line-height: 1.5;
@@ -100,17 +98,11 @@ padding: 100px 20px;
   }
 
   .project-description{
-    padding: 120px 60px 0 60px;
+    padding: 120px 60px;
   }
-
-    .logo {
-      height: 60px;
-      width: auto;
-
-    }
   
     nav {
-      padding: 2px 0;
+      padding: 20px 0;
     }
   
     nav ul {
